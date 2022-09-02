@@ -1,0 +1,8 @@
+{
+    "Directions": "POSSIBILITIES: BobBooks.txt, DigraphsAndTrigraphs.txt, Pokemon.txt, SightWords.txt, LetterBlends.txt",
+    "InputFileName": "LetterBlends.txt",
+    "NumberOfMinutesToTestFor":25.0,
+    "USE_IMPORTED_WORDS_LIST_RAW_FLAG": 0,
+    "RandomizeFlag": 1,
+    "DisplayOnlyWordsOfThisLengthList":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+}
