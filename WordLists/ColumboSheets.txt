@@ -184,7 +184,70 @@ slop
 ###############################################
 
 ###############################################
-#Unit 1.3, spelling words
-#Unit 1.3, sight words
-#Unit 1.3, extra practice
+
+#Unit 1.5, spelling words
+spill
+spin
+grab
+grass
+drop
+drip
+hop
+lot
+two
+move
+
+#Unit 1.5, sight words
+Ronen
+Roney
+jump
+move
+run
+two
+
+#Unit 1.5, extra practice
+frog
+skin
+block
+stop
+trip
+Sam's
+stick
+spin
+slap
+swam
+frog's
+crab's
+swim
+rag
+slip
+skill
+Tim's
+dog's
+trap
+drag
+clip
+cross
+cat's
+kid's
+brick
+sack
+track
+skip
+man's
+Fran's
+grab
+stack
+drip
+snack
+Brad's
+Stan's
+
+###############################################
+
+
+###############################################
+#Unit 1.6, spelling words
+#Unit 1.6, sight words
+#Unit 1.6, extra practice
 ###############################################
